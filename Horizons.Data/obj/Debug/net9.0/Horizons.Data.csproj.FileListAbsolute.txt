@@ -1,0 +1,15 @@
+/Users/macbookpro16/Vs_code/regular_exam/SEDO-Regular-Exam-2/Horizons.Data/bin/Debug/net9.0/Horizons.Data.deps.json
+/Users/macbookpro16/Vs_code/regular_exam/SEDO-Regular-Exam-2/Horizons.Data/bin/Debug/net9.0/Horizons.Data.runtimeconfig.json
+/Users/macbookpro16/Vs_code/regular_exam/SEDO-Regular-Exam-2/Horizons.Data/bin/Debug/net9.0/Horizons.Data.dll
+/Users/macbookpro16/Vs_code/regular_exam/SEDO-Regular-Exam-2/Horizons.Data/bin/Debug/net9.0/Horizons.Data.pdb
+/Users/macbookpro16/Vs_code/regular_exam/SEDO-Regular-Exam-2/Horizons.Data/obj/Debug/net9.0/Horizons.Data.csproj.AssemblyReference.cache
+/Users/macbookpro16/Vs_code/regular_exam/SEDO-Regular-Exam-2/Horizons.Data/obj/Debug/net9.0/Horizons.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro16/Vs_code/regular_exam/SEDO-Regular-Exam-2/Horizons.Data/obj/Debug/net9.0/Horizons.Data.AssemblyInfoInputs.cache
+/Users/macbookpro16/Vs_code/regular_exam/SEDO-Regular-Exam-2/Horizons.Data/obj/Debug/net9.0/Horizons.Data.AssemblyInfo.cs
+/Users/macbookpro16/Vs_code/regular_exam/SEDO-Regular-Exam-2/Horizons.Data/obj/Debug/net9.0/Horizons.Data.csproj.CoreCompileInputs.cache
+/Users/macbookpro16/Vs_code/regular_exam/SEDO-Regular-Exam-2/Horizons.Data/obj/Debug/net9.0/Horizons.Data.sourcelink.json
+/Users/macbookpro16/Vs_code/regular_exam/SEDO-Regular-Exam-2/Horizons.Data/obj/Debug/net9.0/Horizons.Data.dll
+/Users/macbookpro16/Vs_code/regular_exam/SEDO-Regular-Exam-2/Horizons.Data/obj/Debug/net9.0/refint/Horizons.Data.dll
+/Users/macbookpro16/Vs_code/regular_exam/SEDO-Regular-Exam-2/Horizons.Data/obj/Debug/net9.0/Horizons.Data.pdb
+/Users/macbookpro16/Vs_code/regular_exam/SEDO-Regular-Exam-2/Horizons.Data/obj/Debug/net9.0/Horizons.Data.genruntimeconfig.cache
+/Users/macbookpro16/Vs_code/regular_exam/SEDO-Regular-Exam-2/Horizons.Data/obj/Debug/net9.0/ref/Horizons.Data.dll
